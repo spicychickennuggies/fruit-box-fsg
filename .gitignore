@@ -1,0 +1,7 @@
+*.so
+/.idea
+/Cargo.lock
+/target
+/combinations6.json
+/combinations.json
+/combination6.npz
